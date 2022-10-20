@@ -1,19 +1,6 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128582142/13.1.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E290)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+⛔ DEPRECATED. This example was deprecated. You can find an updated version of the example here:
 
-* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
-* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
-<!-- default file list end -->
-# How to implement KPIs without an OLAP datasource
+- [Pivot Grid for WinForms - Display KPI Graphics](https://github.com/DevExpress-Examples/winforms-pivot-grid-display-kpi-graphics)
 
-
-<p>Currently, PivotGridControl can't calculate KPIs without an OLAP datasource. However, you can calculate KPIs by yourself. To do this, handle the CustomDrawCell to perform manual KPI calculation and drawing.</p>
-
-<br/>
-
+The current repository will not be updated in the future.
 
